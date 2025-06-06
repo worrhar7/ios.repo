@@ -1,0 +1,14 @@
+Package: instalauncher2
+Version: 2.11.0
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: instalauncher2 package for iOS
+Section: Tweaks
+Filename: ./debs/instalauncher2_1.11.0.deb
+Size: 205204
+Installed-Size: 200
+MD5sum: 2158b52a8f97f368bcf4b3988793e225
+SHA1: caae71e211bf5c61c76168cb94e141ba44f2a4ec
+SHA256: 4415baaacb394dbe0eb994df3f006e080565c0221c824efae78183c555ee7785
+Name: instalauncher2
+
